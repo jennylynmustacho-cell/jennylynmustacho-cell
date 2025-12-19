@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Jennylyn M. Bolambot
 
-<!--
-**jennylynmustacho-cell/jennylynmustacho-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student  
+💻 Aspiring Software / Web / Mobile Developer  
+📱 Interested in Web Development, Mobile Apps, and System Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- **Backend:** PHP, MySQL (PDO)
+- **Mobile:** Flutter (Dart)
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 🚀 Current Projects
+- Gym Membership Management System
+- Flutter Identification Apps
+- Web-based Academic & Booking Systems
+
+---
+
+⭐ *Still learning, still improving, one commit at a time.*
